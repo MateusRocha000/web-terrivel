@@ -1,0 +1,19 @@
+.post{
+	display: table;
+}
+
+.post h1{
+	display: table-cell;
+}
+
+.post label{
+	display: table-row;
+}
+
+button{
+	width: 100%;
+}
+
+form{
+	display: inline-block;
+}
